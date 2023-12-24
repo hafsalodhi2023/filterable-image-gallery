@@ -1,4 +1,4 @@
-# FILTERABLE SEARCH GALLERY 🎉
+# FILTERABLE IMAGE GALLERY 🎉
 ### Author - Hafsa Khan Lodhi
 Click Here to visit : https://hafsalodhi2023.github.io/filterable-image-gallery<br><br>
 ## Clone Repository ✌
